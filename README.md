@@ -1,2 +1,2 @@
-# Proyecto-Dise-o-de-Algoritmos
+# Proyecto-Diseño-de-Algoritmos
 Código del proyecto de Gestión Documental
